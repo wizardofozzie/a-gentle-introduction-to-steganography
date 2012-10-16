@@ -3,8 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to A gentle introduction to Steganography's documentation!
-==================================================================
+A gentle introduction to Steganography
+======================================
 
 Contents:
 
