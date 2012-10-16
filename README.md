@@ -1,7 +1,7 @@
 A gentle introduction to Steganography
 ======================================
 
-#### A gentle introduction to Steganography
+#### Steganography for dummies
 
 Presentation
 ------------
