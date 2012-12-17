@@ -19,12 +19,14 @@ va devenir (0, 255, 255).
 Pour illustrer cela, voici une image (sans texte caché) ainsi que l'image résultante
 d'une stéganalyse par parité.
 
-.. image:: pictures/montenach.png
-    :scale: 25%
+
+.. figure:: pictures/montenach.png
+    :scale: 30%
     :align: left
     :alt: Original photo
-.. image:: pictures/montenach-steg.png
-    :scale: 25%
+            
+.. figure:: pictures/montenach-steg.png
+    :scale: 30%
     :align: right
     :alt: Steganalysis of the original photo
 
