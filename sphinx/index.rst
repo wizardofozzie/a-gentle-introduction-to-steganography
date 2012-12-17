@@ -14,6 +14,8 @@ Contents:
 
 * :doc:`Introduction </introduction>`.
 * :doc:`Simple steganography art </simple_steganography_art>`.
+* :doc:`Simple method </simple_method>`.
+* :doc:`LSB </lsb_method>`.
 
 
 

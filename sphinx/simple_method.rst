@@ -1,6 +1,36 @@
 Simple method
 -------------
 
+Considérerons un pixel comme le triplet: (Red, Blue, Green). Une composante peut varier
+entre 0 et 255, par exemple (127, 224, 148).
+
+Une technique connue de stéganalyse que nous allons utiliser, consiste tout simplement
+à remplacer les composantes pairs des pixels par 0 et les composantes impairs par 255.
+Il s'agit de la stéganalyse par parité.
+Par exemple le pixel (132, 247, 123) va devenir (0, 255, 255).
+Pour illustrer cela, voici une image (sans texte caché) ainsi que l'image résultante d'une stéganalyse par parité.
+
+
+Une technique connue de stéganalyse que nous allons utiliser, consiste tout simplement
+à remplacer les composantes pairs des pixels par 0 et les composantes impairs par 255.
+Il s'agit de la stéganalyse par parité. Par exemple le pixel (132, 247, 123)
+va devenir (0, 255, 255).
+
+Pour illustrer cela, voici une image (sans texte caché) ainsi que l'image résultante
+d'une stéganalyse par parité.
+
+.. image:: pictures/montenach.png
+    :scale: 25%
+    :align: left
+    :alt: Original photo
+.. image:: pictures/montenach-steg.png
+    :scale: 25%
+    :align: right
+    :alt: Steganalysis of the original photo
+
+Commande à exécuter avec Stéganô pour obtenir une stéganalyse par parité: 
+
+
 
 .. code-block:: python
 
